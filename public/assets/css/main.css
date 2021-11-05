@@ -223,3 +223,21 @@ iframe{
 iframe{
   width:100%;
 }
+
+#alistadow{
+  text-decoration: none;
+  color:  blue;
+  margin:  12px;
+  cursor: pointer;
+}
+
+#nonedata{
+  cursor: not-allowed;
+  text-decoration: none;
+  color:  blue;
+  margin:  12px;
+}
+
+#contddq{
+  text-align: left;
+}
