@@ -17,10 +17,3 @@ function checknavigator(){
     }
 	// 
 }
-
-function determinedata(){
-  if (screen.width => 699){
-    window.location.href="https://solarions1.github.io/movie-web/public/home.html";
-  }
-
-}
