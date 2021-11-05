@@ -20,3 +20,6 @@ function ff8li(){
 function ff9li(){
 	window.location.href="https://solarions1.github.io/movie-web/public/pages/interpages/3fEp7uT7Wwie8TyA7ydXR7hnBJfU3M8HMQAMegBNzAAT83jne5PFTPWT6XizQQjY94gdV6zykYibrbrr.html";
 }
+function dontbreathe2(){
+	window.location.href="https://solarions1.github.io/movie-web/public/pages/interpages/DQZBCnrWd7xvcudd4GFEytkr9tTjrdDRAvyJeFtemimx2xYTJAYV6zL49AfmD8FfxdXC8rSN8zFixf8dy.html";
+}
