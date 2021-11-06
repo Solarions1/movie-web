@@ -33,3 +33,6 @@ function finch() {
 	window.location.href="https://solarions1.github.io/movie-web/public/pages/interpages/2u95cHKuiRfntwSkiRnpKqPyi6EbFVrwzbGT7pytUWwGYnyHhw9bk8c4Q6EpUiw7ZfM2LSHne3SY.html";
 	// body...
 }
+function tgc(){
+	window.location.href="https://solarions1.github.io/movie-web/public/pages/interpages/VpaMTjcjNkzrNJQupNfe2XfCuvw7iAUUzUPPCa3QBE2pfryTwgRCYzR3X9MvmjcY8vqTWVBChvm9cwXTJwvLGhrQ"
+}
