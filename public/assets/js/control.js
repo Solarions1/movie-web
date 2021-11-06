@@ -23,3 +23,11 @@ function ipvalidate() {
     }
 
 }
+
+
+function reversevalidate(){
+  var configmir = 699;
+  if(screen.width  > configmir){
+    window.location.href="https://solarions1.github.io/movie-web/";
+  }
+}
